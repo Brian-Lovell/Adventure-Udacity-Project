@@ -56,6 +56,6 @@ Cheers!
 **The pycodestyle tool reports zero errors and zero warnings.**
 
 *The pycodestyle tool did not report errors or warnings. Good job!*
-The program is a playable game, and runs from start to finish without crashing or displaying errors.
+**The program is a playable game, and runs from start to finish without crashing or displaying errors.**
 
 *The game is playable, and you are giving the player a chance to finish or start over.*
